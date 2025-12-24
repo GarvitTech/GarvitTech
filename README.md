@@ -1,62 +1,26 @@
 # Hi there 👋 I'm Garvit
 
-🚀 **AI/ML Engineer | Builder | Creator**  
-📍 Based in **India 🇮🇳**
+🚀 **AI/ML Engineer** based in **India 🇮🇳**
+
+I build whatever I can imagine.  
+If an idea comes to mind, I build it and ship it.
 
 ---
 
-## 👨‍💻 About Me
-
-I’m **Garvit**, an AI/ML Engineer who loves building whatever I can imagine.  
-If an idea pops into my head, chances are I’ll build it and ship it 🚢.
-
-I enjoy experimenting, learning fast, and turning ideas into real, working products.
-
----
-
-## 🧠 Tech Stack
-
-**Languages**
-- Python 🐍
-- Java ☕
-- C
-- C++
-
-**Tools**
-- VS Code  
-- Tools built by me 🛠️
+## 💻 Tech Stack
+- **Languages:** Python, Java, C, C++
+- **Tools:** VS Code, tools built by me
 
 ---
 
 ## ⭐ Projects
-
-I have several pinned projects on my profile, but my favorite one is **GARVIX**.
-
-- 🔓 **100+ public repositories**
-- 🔒 **200+ private repositories** (and counting!)
-
----
-
-## 🎓 Learning & Teaching
-
-If you want to learn how I build things,  
-📺 **My courses are available on my YouTube channel**.
+- Favorite project: **GARVIX**
+- 100+ public repos | 200+ private repos
 
 ---
 
 ## 🎯 Fun Facts
-
-- I have a dog 🐶  
-- I love coffee and tea ☕🍵  
-- **Shinchan** is my favorite cartoon 📺  
-- **Hobbies:**
-  - Watching cartoons  
-  - Going to the gym 💪  
-  - Building things 🛠️  
-
----
-
-## 🤝 Connect With Me
-
-Feel free to explore my repositories, open issues, or collaborate on projects.  
-Let’s build something awesome together 🚀
+- Dog lover 🐶  
+- Coffee & tea ☕🍵  
+- Shinchan fan 📺  
+- Hobbies: gym 💪, cartoons, building things 🛠️
