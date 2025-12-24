@@ -24,7 +24,7 @@ If an idea comes to mind, I build it and ship it.
 - Coffee & tea ☕🍵  
 - Shinchan fan 📺  
 - Hobbies: gym 💪, cartoons, building things 🛠️
-* Telegram : <a href="https://t.me/asmrprog_admin" target="_blank">GarvitPant</a>
+* Telegram : <a href="https://t.me/EXPLOREAIWITHGARVIT" target="_blank">GarvitPant</a>
 * Email : <a href="mailto:Garvittech01@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
 * GitHub : <a href="https://github.com/GarvitTech" target="_blank">Here!</a>
 
